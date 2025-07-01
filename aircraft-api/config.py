@@ -1,0 +1,1 @@
+READSB_URL = "http://192.168.50.80:8080/data/aircraft.json"
